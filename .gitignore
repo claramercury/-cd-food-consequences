@@ -1,0 +1,16 @@
+# Game data — never commit
+*.paz
+*.pamt
+*.pabgb
+*.pabgh
+*.papgt
+*.pathc
+*.paver
+
+# Build artifacts
+averno_food_mod/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
